@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:Algorithms"
+      name = "Algorithms">
+      <Group
+         location = "group:Sorting"
+         name = "Sorting">
+         <Group
+            location = "container:"
+            name = "Basic Sorts">
+            <FileRef
+               location = "group:/Users/carloshenriqueantunes/Personal/Projects/iOS-Developer-Roadmap/Codes/InsertionSort.playground">
+            </FileRef>
+            <FileRef
+               location = "group:/Users/carloshenriqueantunes/Personal/Projects/iOS-Developer-Roadmap/Codes/SelectionSort.playground">
+            </FileRef>
+            <FileRef
+               location = "group:/Users/carloshenriqueantunes/Personal/Projects/iOS-Developer-Roadmap/Codes/ShellSort.playground">
+            </FileRef>
+         </Group>
+         <Group
+            location = "container:"
+            name = "Fast Sorts">
+            <FileRef
+               location = "group:QuickSort.playground">
+            </FileRef>
+            <FileRef
+               location = "group:MergeSort.playground">
+            </FileRef>
+            <FileRef
+               location = "group:HeapSort.playground">
+            </FileRef>
+         </Group>
+         <Group
+            location = "container:"
+            name = "Hybrid Sorts">
+            <FileRef
+               location = "group:IntroSort.playground">
+            </FileRef>
+         </Group>
+         <Group
+            location = "container:"
+            name = "Special-Purpose Sorts">
+            <FileRef
+               location = "group:CountingSort.playground">
+            </FileRef>
+            <FileRef
+               location = "group:RadixSort.playground">
+            </FileRef>
+            <FileRef
+               location = "group:TopologicalSort.playground">
+            </FileRef>
+         </Group>
+         <Group
+            location = "container:"
+            name = "Bad Sortings">
+            <FileRef
+               location = "group:BubbleSort.playground">
+            </FileRef>
+            <FileRef
+               location = "group:SlowSort.playground">
+            </FileRef>
+         </Group>
+      </Group>
+   </Group>
+</Workspace>
